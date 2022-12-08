@@ -1,0 +1,5 @@
+discord.py == 1.7.3
+dislash.py == 1.4.9
+googletrans == 4.0.0rc1
+Pillow == 9.1.0
+multicolorcaptcha == 1.2.0
